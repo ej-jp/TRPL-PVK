@@ -6,10 +6,10 @@ Code and data from paper "[Effect of Mesostructured Layer upon Crystalline Prope
 
 
 
-##Dependencies:
+## Dependencies:
 * [Matlab](https://www.mathworks.com/)
 
-##Usage
+## Usage
 
 1. Determination of &beta;<sub>s</sub> and &tau;<sub>s</sub> parameters from TRPL data of full blocked perovskite layer. 
 ![Figure 1](https://octodex.github.com/images/yaktocat.png)
