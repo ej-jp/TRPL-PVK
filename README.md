@@ -1,5 +1,5 @@
 # TRPL-PVK
-Matlab implementation for the determination of carrier (electron or hole) diffusion coefficient (diffusion length) using transient photoluminescence decay (TRPL) experimental data.  Diffusion coefficient is obtained by sum squared error minimization procedure between the theoretical curve obtained from the one-dimensional finite element diffusion model and the experimental decay. 
+Matlab implementation for the determination of carrier (electron or hole) diffusion coefficient (diffusion length) using transient photoluminescence decay or time resolved photoluminescence (TRPL) experimental data.  Diffusion coefficient is obtained by the sum squared error minimization procedure between the theoretical curve obtained from the one-dimensional finite element diffusion model and the experimental decay. 
 
 
 ![Figure 1](https://github.com/ej-jp/TRPL-PVK/blob/master/img/Graph1.png)
