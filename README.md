@@ -2,6 +2,9 @@
 Matlab implementation for the determination of carrier (electron or hole) diffusion coefficient (diffusion length) using transient photoluminescence decay (TRPL) experimental data.  Diffusion coefficient is obtained by sum squared error minimization procedure between the theoretical curve obtained from the one-dimensional finite element diffusion model and the experimental decay. 
 
 
+![Figure 1](https://github.com/ej-jp/TRPL-PVK/blob/master/img/Graph1.png)
+
+
 Code and data from paper "[Effect of Mesostructured Layer upon Crystalline Properties and Device Performance on Perovskite Solar Cells](https://doi.org/10.1021/acs.jpclett.5b00483)" *J. Phys. Chem. Lett.* **2015**, 6, 1628-1637.
 See [Support information file](https://pubs.acs.org/doi/suppl/10.1021/acs.jpclett.5b00483/suppl_file/jz5b00483_si_001.pdf) of the paper for details in this implementation. 
 
@@ -24,8 +27,9 @@ The procedure consist of three steps:
 ## Citation
 
 If you find this work useful for your research, please cite:
-A. Listorti, E. J. Juarez-Perez, C. Frontera, V. Roiati, L. Garcia-Andrade, S. Colella, A. Rizzo, P. Ortiz, I. Mora-Sero,  
-[Effect of Mesostructured Layer upon Crystalline Properties and Device Performance on Perovskite Solar Cells](https://doi.org/10.1021/acs.jpclett.5b00483)" *J. Phys. Chem. Lett.* **2015**, 6, 1628-1637.
+
+A. Listorti, E. J. Juarez-Perez, C. Frontera, V. Roiati, L. Garcia-Andrade, S. Colella, A. Rizzo, P. Ortiz, I. Mora-Sero, [Effect of Mesostructured Layer upon Crystalline Properties and Device Performance on Perovskite Solar Cells](https://doi.org/10.1021/acs.jpclett.5b00483)" *J. Phys. Chem. Lett.* **2015**, 6, 1628-1637.
+
 ```
 @Article{Listorti2015Effect1628,
   Title                    = {Effect of Mesostructured Layer upon Crystalline Properties and Device Performance on Perovskite Solar Cells},
@@ -40,7 +44,6 @@ A. Listorti, E. J. Juarez-Perez, C. Frontera, V. Roiati, L. Garcia-Andrade, S. C
 ```
 
 
-![Figure 1](https://github.com/ej-jp/TRPL-PVK/blob/master/img/Graph1.png)
 
 
 
