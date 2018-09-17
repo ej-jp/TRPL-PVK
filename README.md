@@ -6,11 +6,11 @@ Code and data from paper "[Effect of Mesostructured Layer upon Crystalline Prope
 
 
 
-##Dependencies:
+## Dependencies:
 * [Matlab](https://www.mathworks.com/)
 * used version R2012b
 
-##Usage
+## Usage
 
 1. Determination of &beta;<sub>s</sub> and &tau;<sub>s</sub> parameters guessing a stretched exponential decay for TRPL data of blocked device (natural recombination without extraction layer). Run `stretched_exponential_fitting.m` routine in the `1_recombination_blocked_device` folder using a TRPL normalized data in the same format as `block_device_data.csv` data file. Grab the output &beta;<sub>s</sub> and &tau;<sub>s</sub> values for the next step.
 
@@ -18,7 +18,7 @@ Code and data from paper "[Effect of Mesostructured Layer upon Crystalline Prope
 
 3. Diffusion Length is obtained using &beta;<sub>s</sub> and &tau;<sub>s</sub> parameters from step 1 and D coefficient from step 2. Run `Diffusion_Length.m`
 
-##Citation
+## Citation
 If you find this work useful for your research, please cite:
 ```
 @Article{Listorti2015Effect1628,
